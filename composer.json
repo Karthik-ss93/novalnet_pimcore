@@ -2,7 +2,7 @@
     "name": "novalnet_pimcore/payment-provider-novalnet-payment-gateway",
     "license": "GPL-3.0+",
     "type": "pimcore-bundle",
-    "version": "1.1.0",
+    "version": "2.1.0",
     "description": "Pimcore Payment Provider - Novalnet Payment Gateway",
     "config": {
         "sort-packages": true
