@@ -8,6 +8,7 @@
         "sort-packages": true
     },
     "prefer-stable": true,
+    "minimum-stability": "stable",
     "require": {
         "pimcore/pimcore": "^11.0",
         "pimcore/ecommerce-framework-bundle": "^1.0.10"
