@@ -1,5 +1,5 @@
 {
-    "name": "pimcore/payment-provider-novalnet-payment-gateway",
+    "name": "novalnet/payment-provider-novalnet-payment-gateway",
     "license": "GPL-3.0+",
     "type": "pimcore-bundle",
     "version": "1.0.0",
