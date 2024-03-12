@@ -2,8 +2,8 @@
     "name": "pimcore_novalnet/pimcore-novalnet-payment",
     "license": "GPL-3.0+",
     "type": "pimcore-bundle",
-    "version": "2.1.0",
-    "description": "Pimcore Payment Provider - Novalnet Payments",
+    "version": "1.0.0",
+    "description": "Pimcore Payment Provider - Novalnet Payment",
     "config": {
         "sort-packages": true
     },
@@ -18,13 +18,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Pimcore\\Bundle\\EcommerceFrameworkBundle\\": "src/"
+            "Novalnet\\PimcoreNovalnetPaymentBundle\\":"src/"
         }
     },
     "extra": {
         "pimcore": {
             "bundles": [
-                "Pimcore\\Bundle\\EcommerceFrameworkBundle\\PimcorePaymentProviderNovalnetPaymentGateway"
+                "Novalnet\\PimcoreNovalnetPaymentBundle\\PimcoreNovalnetPayment"
             ]
         }
     }
