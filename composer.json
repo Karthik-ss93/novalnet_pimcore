@@ -1,5 +1,5 @@
 {
-    "name": "pimcore_novalnet/payment-provider-novalnet-payments",
+    "name": "pimcore_novalnet/pimcore-novalnet-payment",
     "license": "GPL-3.0+",
     "type": "pimcore-bundle",
     "version": "2.1.0",
